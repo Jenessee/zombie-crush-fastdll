@@ -1,0 +1,4 @@
+3
+weapon		640	zcrush/item_huds	    170	0	170	45
+weapon_s	640	zcrush/item_huds	    170	0	170	45
+ammo		640	zcrush/item_huds		24	90	24	24
